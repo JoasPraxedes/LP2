@@ -1,0 +1,16 @@
+C:\Users\0030482221004\Desktop\LP2\Atividade5\Atividade5\Atividade5\obj\Debug\Atividade5.csprojAssemblyReference.cache
+C:\Users\0030482221004\Desktop\LP2\Atividade5\Atividade5\Atividade5\obj\Debug\Atividade5.Form1.resources
+C:\Users\0030482221004\Desktop\LP2\Atividade5\Atividade5\Atividade5\obj\Debug\Atividade5.Properties.Resources.resources
+C:\Users\0030482221004\Desktop\LP2\Atividade5\Atividade5\Atividade5\obj\Debug\Atividade5.csproj.GenerateResource.cache
+C:\Users\0030482221004\Desktop\LP2\Atividade5\Atividade5\Atividade5\obj\Debug\Atividade5.csproj.CoreCompileInputs.cache
+C:\Users\joasp\Documents\Linguagem de Prog. 2\Atividade5\Atividade5\obj\Debug\Atividade5.csproj.AssemblyReference.cache
+C:\Users\joasp\Documents\Linguagem de Prog. 2\Atividade5\Atividade5\obj\Debug\Atividade5.csproj.SuggestedBindingRedirects.cache
+C:\Users\joasp\Documents\Linguagem de Prog. 2\Atividade5\Atividade5\obj\Debug\Atividade5.Form1.resources
+C:\Users\joasp\Documents\Linguagem de Prog. 2\Atividade5\Atividade5\obj\Debug\Atividade5.Properties.Resources.resources
+C:\Users\joasp\Documents\Linguagem de Prog. 2\Atividade5\Atividade5\obj\Debug\Atividade5.csproj.GenerateResource.cache
+C:\Users\joasp\Documents\Linguagem de Prog. 2\Atividade5\Atividade5\obj\Debug\Atividade5.csproj.CoreCompileInputs.cache
+C:\Users\joasp\Documents\Linguagem de Prog. 2\Atividade5\Atividade5\bin\Debug\Atividade5.exe.config
+C:\Users\joasp\Documents\Linguagem de Prog. 2\Atividade5\Atividade5\bin\Debug\Atividade5.exe
+C:\Users\joasp\Documents\Linguagem de Prog. 2\Atividade5\Atividade5\bin\Debug\Atividade5.pdb
+C:\Users\joasp\Documents\Linguagem de Prog. 2\Atividade5\Atividade5\obj\Debug\Atividade5.exe
+C:\Users\joasp\Documents\Linguagem de Prog. 2\Atividade5\Atividade5\obj\Debug\Atividade5.pdb

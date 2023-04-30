@@ -1,0 +1,24 @@
+C:\Users\0030482221004\Desktop\LP2\PClasses\PClasses\bin\Debug\PClasses.exe.config
+C:\Users\0030482221004\Desktop\LP2\PClasses\PClasses\bin\Debug\PClasses.exe
+C:\Users\0030482221004\Desktop\LP2\PClasses\PClasses\bin\Debug\PClasses.pdb
+C:\Users\0030482221004\Desktop\LP2\PClasses\PClasses\obj\Debug\PClasses.csprojAssemblyReference.cache
+C:\Users\0030482221004\Desktop\LP2\PClasses\PClasses\obj\Debug\PClasses.Form1.resources
+C:\Users\0030482221004\Desktop\LP2\PClasses\PClasses\obj\Debug\PClasses.frmMensalista.resources
+C:\Users\0030482221004\Desktop\LP2\PClasses\PClasses\obj\Debug\PClasses.Properties.Resources.resources
+C:\Users\0030482221004\Desktop\LP2\PClasses\PClasses\obj\Debug\PClasses.csproj.GenerateResource.cache
+C:\Users\0030482221004\Desktop\LP2\PClasses\PClasses\obj\Debug\PClasses.csproj.CoreCompileInputs.cache
+C:\Users\0030482221004\Desktop\LP2\PClasses\PClasses\obj\Debug\PClasses.exe
+C:\Users\0030482221004\Desktop\LP2\PClasses\PClasses\obj\Debug\PClasses.pdb
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PClasses\PClasses\PClasses\bin\Debug\PClasses.exe.config
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PClasses\PClasses\PClasses\bin\Debug\PClasses.exe
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PClasses\PClasses\PClasses\bin\Debug\PClasses.pdb
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PClasses\PClasses\PClasses\obj\Debug\PClasses.csproj.AssemblyReference.cache
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PClasses\PClasses\PClasses\obj\Debug\PClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PClasses\PClasses\PClasses\obj\Debug\PClasses.Form1.resources
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PClasses\PClasses\PClasses\obj\Debug\PClasses.frmHorista.resources
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PClasses\PClasses\PClasses\obj\Debug\PClasses.frmMensalista.resources
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PClasses\PClasses\PClasses\obj\Debug\PClasses.Properties.Resources.resources
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PClasses\PClasses\PClasses\obj\Debug\PClasses.csproj.GenerateResource.cache
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PClasses\PClasses\PClasses\obj\Debug\PClasses.csproj.CoreCompileInputs.cache
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PClasses\PClasses\PClasses\obj\Debug\PClasses.exe
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PClasses\PClasses\PClasses\obj\Debug\PClasses.pdb

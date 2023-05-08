@@ -1,0 +1,29 @@
+C:\Users\0030482221004\Desktop\LP2\PLacos\PLacos\bin\Debug\PLacos.exe.config
+C:\Users\0030482221004\Desktop\LP2\PLacos\PLacos\bin\Debug\PLacos.exe
+C:\Users\0030482221004\Desktop\LP2\PLacos\PLacos\bin\Debug\PLacos.pdb
+C:\Users\0030482221004\Desktop\LP2\PLacos\PLacos\obj\Debug\PLacos.csprojAssemblyReference.cache
+C:\Users\0030482221004\Desktop\LP2\PLacos\PLacos\obj\Debug\PLacos.Form1.resources
+C:\Users\0030482221004\Desktop\LP2\PLacos\PLacos\obj\Debug\PLacos.Properties.Resources.resources
+C:\Users\0030482221004\Desktop\LP2\PLacos\PLacos\obj\Debug\PLacos.csproj.GenerateResource.cache
+C:\Users\0030482221004\Desktop\LP2\PLacos\PLacos\obj\Debug\PLacos.csproj.CoreCompileInputs.cache
+C:\Users\0030482221004\Desktop\LP2\PLacos\PLacos\obj\Debug\PLacos.exe
+C:\Users\0030482221004\Desktop\LP2\PLacos\PLacos\obj\Debug\PLacos.pdb
+C:\Users\0030482221004\Desktop\LP2\PLacos\PLacos\obj\Debug\PLacos.frmExercicio1.resources
+C:\Users\0030482221004\Desktop\LP2\PLacos\PLacos\obj\Debug\PLacos.frmExercicio2.resources
+C:\Users\0030482221004\Desktop\LP2\PLacos\PLacos\obj\Debug\PLacos.frmExercicio3.resources
+C:\Users\0030482221004\Desktop\LP2\PLacos\PLacos\obj\Debug\PLacos.frmExercicio4.resources
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PLacos\PLacos\bin\Debug\PLacos.exe.config
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PLacos\PLacos\bin\Debug\PLacos.exe
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PLacos\PLacos\bin\Debug\PLacos.pdb
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PLacos\PLacos\obj\Debug\PLacos.csproj.AssemblyReference.cache
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PLacos\PLacos\obj\Debug\PLacos.csproj.SuggestedBindingRedirects.cache
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PLacos\PLacos\obj\Debug\PLacos.frmExercicio1.resources
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PLacos\PLacos\obj\Debug\PLacos.frmExercicio2.resources
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PLacos\PLacos\obj\Debug\PLacos.frmExercicio3.resources
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PLacos\PLacos\obj\Debug\PLacos.frmExercicio4.resources
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PLacos\PLacos\obj\Debug\PLacos.Form1.resources
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PLacos\PLacos\obj\Debug\PLacos.Properties.Resources.resources
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PLacos\PLacos\obj\Debug\PLacos.csproj.GenerateResource.cache
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PLacos\PLacos\obj\Debug\PLacos.csproj.CoreCompileInputs.cache
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PLacos\PLacos\obj\Debug\PLacos.exe
+C:\Users\joasp\Documents\Linguagem de Prog. 2\PLacos\PLacos\obj\Debug\PLacos.pdb
